@@ -1,4 +1,5 @@
-### Hi there 👋
+# 👋 Hi, I'm Jun!
+I make cool stuff with AI, computer vision, and web technologies 😎
 
 <!--
 **junqiwu02/junqiwu02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
